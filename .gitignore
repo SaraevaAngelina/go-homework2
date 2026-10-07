@@ -1,0 +1,10 @@
+task2_cil_utility
+go_homework
+*.exe
+*.out
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
