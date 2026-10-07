@@ -9,5 +9,5 @@ go_homework
 .DS_Store
 Thumbs.db
 
-movie-downloader.exe
+movie_downloader.exe
 *.exe
